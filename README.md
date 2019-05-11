@@ -1,6 +1,6 @@
 # Continuous Migration
 
-Run your migrations in CI.
+Run your Contentful migrations in CI.
 
 ## Usage
 
